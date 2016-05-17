@@ -1,5 +1,9 @@
 [
     {
+        "search": "beautiful girl",
+        "when": "Tue May 17 2016 17:30:13 GMT+0700 (SE Asia Standard Time)"
+    },
+    {
         "search": "google",
         "when": "Tue May 17 2016 17:19:30 GMT+0700 (SE Asia Standard Time)"
     },
@@ -34,9 +38,5 @@
     {
         "search": "computer",
         "when": "Tue May 17 2016 17:03:08 GMT+0700 (SE Asia Standard Time)"
-    },
-    {
-        "search": "don",
-        "when": "Tue May 17 2016 17:02:48 GMT+0700 (SE Asia Standard Time)"
     }
 ]

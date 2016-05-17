@@ -6,7 +6,7 @@
 - I can get a list of the most recently submitted search strings.
 
 ##Example
-``http://example.com/api/image/google?offset=10``
+``http://example.com/api/image/beautiful girl?offset=10``
 
 
 ``http://example.com/api/latestImageSearch``
